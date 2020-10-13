@@ -1,0 +1,1604 @@
+Topic,Topic2,Category2,Date,Sentiment,Sentiment_YoY_Growth,Frequency,Frequency_YoY_Growth,Trending_Score,Perspective,Perspective2,Category1,Country,Novelty_Score
+#Coke,Human,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#Pepsi,Flavoring,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#arcade,Coke,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#icecream,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Coke,Vanilla,ginger ale,last year,0.0772,-1.3809762,3,0.0,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Cold,Coke,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Ice,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Tortellini,ginger ale,last year,-0.5719,-57.190002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ears,Ginger Ale,ginger ale,last year,-0.6369,-63.690002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Juice,Diet,ginger ale,last 3 month,0.0,-1.0127162,0,-0.99502486,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Lime,#Drinks,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Lime,Ice,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Salmon,Alfredo,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Salmon,Ginger Ale,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sole,@nypost,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Sweet Pickles,Cola,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vanilla,Coca Cola,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+#Obesity,#Soda,soda,last year,0.0,-1.0379939,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beverage,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#craft,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fizzydrink,Human,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#fizzyfriday,#coldbrew,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#happiness,Toasted,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#happy,Human,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#stayinnandbeoutout,Sparkling Water,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Basil,Soda,soda,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Carbonated,Shake,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Cheddar Cheese,Tomato,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coffee,#delicious,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cold,#coldbrew,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cold,#whynot,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cream,Onion,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Flat,Water,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Juice,Grape,soda,last year,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Juice,Soda,soda,last 3 month,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Seltzer,Flat,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Shake,Flat,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Shake,Flat,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Soda,Dried,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,Lime,soda,last 3 month,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+#Ginvent,Fresh,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#MarchMadness,@CAEAirport,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#SimplyAmazing,Coffee,tonic,last 6 month,0.5859,58.59,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#chairmansreserve,Tonic,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,Fever Tree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#ginandtonic,Tonic,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#howsyourheadhun,@michellevisage,tonic,last year,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#tiqaportland,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@columbiasc,@CAEAirport,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Cranberry,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Gin,#fevertree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Ginger,Rum,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Ice,Tonic Water,tonic,last year,0.6249,62.489998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Rosemary,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Spiced,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Motivation,Hashtag,Beverage,Canada,8.589969
+#DietCoke,Diet Coke,ginger ale,last 3 month,0.0,0.0,2,200.0,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#artificial,Flavoring,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#beer,Beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#drum,#pop,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#groove,@OutwavesMA,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#imnotchubby,#golf,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Jaguars,Cola,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Abraham,Diet Coke,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Brand,Brand,Beverage,Canada,8.834928
+Cherry Coke,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,#DrizzyBanCo,ginger ale,last year,0.802,80.2,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,@Jaguars,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,Ice,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice,Lemon,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Salmon,Alfredo,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Salmon,Cake,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Water,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprite,Water,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Stomach,Ginger Ale,ginger ale,last year,0.31780002,31.78,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,7.6868787
+Sugar,Sack,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Wine,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#NATURAL,#sparklingwater,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#community,#wellbeing,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fizzyfriday,Coffee,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#happy,#fizzydrink,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#health,#fizzydrink,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#mojito,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#stayinnandbeoutout,Sparkling Water,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Cherry,Soda,soda,last 3 month,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Veggies,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Dried,Bean Soup,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Japanese,Sparkling Water,soda,last year,-0.5411,-54.11,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Seltzer,Water,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Red,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Cheddar Cheese,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Mustard,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Strawberry,Tangerine,soda,last year,0.0,-0.98481625,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Vodka,#NOTANAD,soda,last 6 month,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Vodka,Sparkling Water,soda,last 3 month,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Water,#RefreshingByNature,soda,last 3 month,0.0,-0.986969,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#Angular,#developerlife,tonic,last 3 month,0.6369,63.690002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RapeSurvivors,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#chairmansreserve,Cranberry,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#chairmansreserve,Cranberry,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#cocktails,Tonic,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,#tiqaportland,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fevertree,Rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,#fevertree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#rosemary,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#rosemary,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Gin,#tiqaportland,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@CAEAirport,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Fever Tree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Gin,Rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Rosemary,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,#bbcqt,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,Fresh,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Tonic,Ice,tonic,last 3 month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic Water,Coffee,tonic,last 6 month,0.5859,58.59,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic Water,Cold,tonic,last year,0.6249,62.489998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Coke,Biotech,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#arcade,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#lightingdesign,#design,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#pop,#rock,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Cherry,Coke,ginger ale,last year,-0.8442,-84.42,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Coca Cola,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Coke,Juice,ginger ale,last 3 month,0.0,-1.0127162,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Lime,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Sprite,ginger ale,last year,0.0,-0.9874351,2,-0.33222592,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Honey,Coke,ginger ale,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Inca,Soda,ginger ale,last year,0.0,-0.983482,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Jack,Coke,ginger ale,last year,0.53,52.999996,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Juice,Diet,ginger ale,last 6 month,0.0,-1.0127162,0,-0.99502486,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Salmon,Cake,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Wine,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#SparklingWater,#HealthTip,soda,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#happiness,Human,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#humanhappiness,#health,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#lemonade,Garnish,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@RootdHealth,@homejobsbymom,soda,last 3 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Carbonated,Seltzer,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Eggs,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Flat,Water,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ginger,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Grape,Soda,soda,last year,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Mustard,Veggies,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Rolls,Soda,soda,last year,0.0772,7.7200003,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Seltzer,Shake,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Sparkling Water,Coke,soda,last 6 month,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Veggies,soda,last year,1.1695334,116.95334,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Tomato,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Tomato,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Brown,soda,last year,-0.5574,-55.739998,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+#Ginvent,@GinFoundry,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Hashtag,Beverage,Canada,
+#Ginvent,Orange,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#RealColumbiaSC,#MarchMadness,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,@drjoshsc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#TalkAt9,#BunsOut,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#TalkAt9,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,#tiqaportland,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fevertree,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#rosemary,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,Tonic,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@BrightClubMcr,#scicomm,tonic,last year,0.4926,49.26,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+@DoubleDutchMix,Tonic,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@EpicFoundSA,Tonic,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@craftandcochest,Rum,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Cinnamon,Fresh,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Cinnamon,Stick,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Motivation,Beverage,Canada,
+Gin,#MarchMadness,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Rosemary,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,@michellevisage,tonic,last month,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,Orange,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Tonic,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#DietCoke,Diet Coke,ginger ale,last month,0.0,0.0,2,200.0,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#icecream,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#jazz,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#lifeofriley,Diet Coke,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+Black,Sack,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Blood,#CherryCoke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cheese,Cola,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Chipotle,Coke Zero,ginger ale,last year,0.6705,67.049995,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Coke Zero,ginger ale,last year,0.6705,67.049995,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Salmon,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Cake,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Tortellini,ginger ale,last year,-0.5719,-57.190002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sonic,Cherry,ginger ale,last year,-0.8442,-84.42,3,300.0,0.0,Brand,Ingredient,Beverage,Canada,7.6868787
+Sonic,Coke,ginger ale,last year,-0.8442,-84.42,3,300.0,0.0,Brand,Ingredient,Beverage,Canada,7.6868787
+Sprite,Lime,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sweet Pickles,Cola,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+White House,Diet Coke,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Brand,Brand,Beverage,Canada,8.834928
+Wine,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Wine,#minigolf,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#Klarbrunn4Life,#Relax,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#NOTANAD,Sparkling Water,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#WorldWaterDay2019,#RefreshingByNature,soda,last year,0.0,-0.986969,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beverage,#mojito,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fizzydrink,#happiness,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#giveaway,@homejobsbymom,soda,last year,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#happiness,#wellbeing,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#sparklingwater,#coldbrew,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#whynot,#supercharged,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@YouTube,Sparkling Water,soda,last year,0.0,-0.9866149,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Ice Cream,Shake,soda,last year,0.8388,83.880005,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Mint,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mustard,Tomato,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Red,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Veggies,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Veggies,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#cocktails,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+#craftcocktails,Tonic,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Tonic,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,#tiqaportland,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#howsyourheadhun,@michellevisage,tonic,last 3 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#howsyourheadhun,@michellevisage,tonic,last month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#howsyourheadhun,Tonic,tonic,last year,-0.2942,-29.42,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#rosemary,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wintersover,#spanishgin,tonic,last 3 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@DoubleDutchMix,#cocktails,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@ReisePferdich,Tonic,tonic,last 6 month,0.0,-1.019976,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,7.6868787
+@craftandcochest,Ginger,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Cranberry,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Fever Tree,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Gin,@columbiasc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Orange,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Ice,Large,tonic,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Rosemary,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Rosemary,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,#bbcqt,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@bbcquestiontime,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Coke,Flavoring,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#designinspo,#interiordesign,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#gingerale,Stomach,ginger ale,last year,0.0,-0.96953076,0,-0.99502486,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#rock,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Wendys,Coke,ginger ale,last 3 month,0.0,-0.9897162,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@WindowTrendsHI,#design,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+Alfredo,Cake,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Cheese,@Jaguars,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cherry,Cherry Coke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Pimento,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold Water,Ginger Ale,ginger ale,last 6 month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Ginger Ale,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+French,Coke,ginger ale,last year,0.0,0.0,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,8.589969
+Frozen,Ice Cubes,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice Cubes,Coke,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Orange,Vanilla,ginger ale,last 3 month,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sonic,Dr Pepper,ginger ale,last year,-0.8442,-84.42,3,300.0,0.0,Brand,Ingredient,Beverage,Canada,7.6868787
+Vanilla,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#NATURAL,#hammock,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#craft,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#whynot,#coldbrew,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@RootdHealth,#win,soda,last 3 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Bacon,Cheese,soda,last 6 month,-0.296,-29.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Cold,Coffee,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lemonade,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lemonade,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Red,Dried,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Red,Dried,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Shake,Soda,soda,last 6 month,0.8388,83.880005,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,8.589969
+Soda,Squid,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Dried,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tuna,Sparkling Water,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Coke,soda,last 3 month,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Ginvent,Cinnamon,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#MarchMadness,Tonic,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#RugbyWorldCup2019,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#bbcqt,@bbcquestiontime,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#cocktails,Ginger,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wintersover,#bluehenntonic,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@CAEAirport,Tonic,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@DoubleDutchMix,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@DoubleDutchMix,Tonic,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@columbiasc,#MarchMadness,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Angostura Bitters,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cranberry,Ginger,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Fever Tree,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fever Tree,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Fresh,Orange,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Gin,#ginandtonic,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#ginandtonic,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#tiqaportland,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@bbcquestiontime,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Orange,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Spiced,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Motivation,Hashtag,Beverage,Canada,8.589969
+Stick,Fresh,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Motivation,Ingredient,Beverage,Canada,
+Tonic,@craftandcochest,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,Ginger,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tonic,Rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Coke,#flavors,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beer,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#djent,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#djent,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#drum,#latenightshow,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#jazz,#rock,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#pop,#jazz,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@raemack2488,Black,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Alfredo,Cake,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Cold Water,Cranberry Juice,ginger ale,last 6 month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Alfredo,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Brand,Beverage,Canada,8.834928
+#craft,#lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craft,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#giveaway,#win,soda,last year,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#giveaway,@homejobsbymom,soda,last 3 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#health,Human,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#stayinnandbeoutout,#NOTANAD,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#stayinnandbeoutout,Lime,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#whynot,#fizzyfriday,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@RootdHealth,#win,soda,last month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Candy,Chocolate,soda,last year,0.0,-1.01104,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cherry,Mineral Water,soda,last year,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cherry,Soda,soda,last 6 month,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Fat,Soda,soda,last year,0.0,-1.0106394,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Flat,Water,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Mustard,Tomato,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Shake,Soda,soda,last year,0.8388,83.880005,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,8.589969
+Soda,Squid,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Coke,soda,last year,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Mustard,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Bean Soup,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Red,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Fried Eggs,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Angular,Tonic,tonic,last 3 month,0.6369,63.690002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#Angular,Tonic,tonic,last 6 month,0.6369,63.690002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#BunsOut,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,@CAEAirport,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,@CAEAirport,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,Tonic,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#RealColumbiaSC,Tonic,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#TalkAt9,#RugbyWorldCup2019,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#chairmansreserve,@craftandcochest,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#chairmansreserve,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+#cocktails,#chairmansreserve,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#cocktails,#chairmansreserve,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#craftcocktails,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,Rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,Tonic,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#rosemary,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,Tonic,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wintersover,#bluehenntonic,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@bbcthree,@michellevisage,tonic,last month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@craftandcochest,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+Fever Tree,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Gin,#Ginvent,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Hashtag,Beverage,Canada,
+Gin,#RealColumbiaSC,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#fevertree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@drjoshsc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Tonic,tonic,last month,-0.65926665,-65.92667,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Stick,Orange,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Motivation,Ingredient,Beverage,Canada,
+#DreBanksWorld,@Dj,ginger ale,last year,0.802,80.2,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#arcade,Beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#designinspo,#lightingdesign,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#drum,#jazz,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#groove,#djent,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#interiordesign,#design,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+@pepsi,Icing,ginger ale,last year,0.0,-0.9842767,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Cake,Coke,ginger ale,last year,0.0,-0.9842767,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Diet,ginger ale,last 6 month,-0.1926,-0.76780266,2,0.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Coke,Vanilla,ginger ale,last 3 month,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Coke,Vanilla,ginger ale,last 6 month,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Coke,Water,ginger ale,last 3 month,-0.1926,-19.26,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Lime,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Gin,Ginger Ale,ginger ale,last year,0.0,-0.9858277,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Ginger Ale,Alfredo,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Ginger Ale,Sprite,ginger ale,last 6 month,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Grapes,Coke,ginger ale,last year,0.0,-0.98454165,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lime,#CherryCoke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Rebel,Cavalier,ginger ale,last year,0.6259,62.589996,4,400.0,0.0,Brand,Brand,Beverage,Canada,7.6868787
+Sprite,Lemon,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#0calories,#hammock,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#0calories,#sparklingwater,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#humanhappiness,#fizzydrink,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#supercharged,#fizzyfriday,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@RootdHealth,#giveaway,soda,last month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@RootdHealth,#win,soda,last 6 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Carbonated,Flat,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Carbonated,Pear,soda,last year,-0.7351,-73.509995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Cold,#supercharged,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Garnish,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice Cream,Soda,soda,last 3 month,0.8388,83.880005,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Lime,Sparkling Water,soda,last 3 month,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Mustard,Eggs,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Seltzer,Flat,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Sparkling Water,Mature,soda,last year,0.6124,61.239998,6,600.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Sparkling Water,Provolone Cheese,soda,last year,1.1695334,116.95334,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Sparkling Water,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Eggs,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,#stayinnandbeoutout,soda,last year,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+#SimplyAmazing,Tonic Water,tonic,last 3 month,0.5859,58.59,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#cocktails,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+#craftcocktails,#fevertree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,#fevertree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fevertree,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@DoubleDutchMix,Cranberry,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@DoubleDutchMix,Ginger,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@GinFoundry,Orange,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+Fever Tree,Tonic,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#bbcqt,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@GinFoundry,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Hashtag,Beverage,Canada,
+Gin,Fresh,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Ginger,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Rosemary,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Rum,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Tonic,#developerlife,tonic,last 6 month,0.6369,63.690002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@bbcthree,tonic,last 3 month,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,@michellevisage,tonic,last year,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+#artificial,Biotech,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#familyfun,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,#arcade,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#rock,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@ETEAKI_T,Coke,ginger ale,last year,0.636,63.6,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Beer,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,@Jaguars,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cold,Coke,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Cake,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ears,Sprite,ginger ale,last year,-0.6369,-63.690002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger,Tortellini,ginger ale,last year,-0.5719,-57.190002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Crackers,ginger ale,last 6 month,0.0772,7.7200003,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Ginger Ale,Strong,ginger ale,last 6 month,0.5574,55.739998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lime,Blood,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Original,Coke Zero,ginger ale,last year,0.3182,31.82,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Tequila,Coke,ginger ale,last 6 month,0.636,63.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tuna,Crackers,ginger ale,last year,-0.4019,-40.19,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Vanilla,#Drinks,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Whiskey,#weworksummercamp,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#Klarbrunn4Life,#hammock,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#craft,#summer,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#isolationnation,#NOTANAD,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#lemonade,#mojito,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Coke,Soda,soda,last year,-0.34,-34.0,2,0.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cola,Caffeine,soda,last year,-0.34,-34.0,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Cream,Soda,soda,last 6 month,0.5707,57.07,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Sparkling Water,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Flat,Vodka,soda,last year,0.0,-0.98877287,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Juice,Grape,soda,last 3 month,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Lime,#NOTANAD,soda,last 6 month,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Mint,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+My Favorite,Soda Water,soda,last 6 month,0.0,-0.9881179,0,-0.99667776,0.0,Brand,Ingredient,Beverage,Canada,
+Rolls,Soda,soda,last 6 month,0.0772,7.7200003,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Croissants,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Dried,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,Soda,soda,last year,0.0,-0.98877287,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Sparkling Water,soda,last 6 month,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,
+#chairmansreserve,@craftandcochest,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#craftcocktails,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#howsyourheadhun,Tonic,tonic,last month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@DoubleDutchMix,#chairmansreserve,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@columbiasc,@drjoshsc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@columbiasc,Tonic,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Cinnamon,Fresh,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Fever Tree,#fevertree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fever Tree,#fevertree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fever Tree,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#RealColumbiaSC,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#RealColumbiaSC,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Gin,Cinnamon,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Rosemary,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,Ice,tonic,last 6 month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Large,tonic,last month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Water,tonic,last year,0.3612,36.12,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#CherryCoke,Coca Cola,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#Pepsi,Biotech,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#arcade,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beer,#minigolf,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beer,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#imnotchubby,#lifeofriley,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#minigolf,Beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@OutwavesMA,#jazz,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Black,Sugar,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cherry,Dr Pepper,ginger ale,last year,-0.8442,-84.42,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Chipotle,Vodka,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Cheese,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Diet,ginger ale,last month,-0.1926,-19.26,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Coke,Water,ginger ale,last year,-0.1926,-1.4919181,2,0.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold Water,Cranberry Juice,ginger ale,last month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Salmon,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Cranberry Juice,ginger ale,last 6 month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Whiskey,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice,Lemon,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Know,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+#SparklingWater,#FitLife,soda,last year,0.0,-0.97656983,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#community,#health,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#hammock,#Relax,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#isolationnation,Vodka,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@RootdHealth,#giveaway,soda,last year,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Cheese,Star Wars,soda,last year,0.0,-0.95289683,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Cold,#fizzyfriday,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Lime,#NOTANAD,soda,last 3 month,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Soda,Squid,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Fried Eggs,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Sparkling Water,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Strawberry,Sparkling Water,soda,last year,0.0,-0.98481625,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Tuna,Provolone Cheese,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Provolone Cheese,soda,last year,1.1695334,116.95334,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Angular,#developerlife,tonic,last year,0.6369,63.690002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#Angular,Tonic,tonic,last year,0.6369,63.690002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#BunsOut,#RugbyWorldCup2019,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RapeSurvivors,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,#tiqaportland,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,#fevertree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#tiqaportland,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,Rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@DoubleDutchMix,Rum,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@Radio702,@EpicFoundSA,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@bbcthree,@michellevisage,tonic,last 3 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Angostura Bitters,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Angostura Bitters,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cinnamon,Orange,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Cinnamon,Tonic,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Cranberry,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Fever Tree,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#BunsOut,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Tonic,tonic,last 6 month,-0.31385,-1.5367268,4,-0.42796007,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tonic,#developerlife,tonic,last month,0.6369,63.690002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,#scicomm,tonic,last year,0.4926,49.26,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,7.6868787
+Tonic,Stick,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Motivation,Beverage,Canada,
+#Drinks,Cherry Coke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#drum,#djent,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#familyfun,Wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#imnotchubby,#golfgalaxy,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#jazz,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#lightingdesign,#homedecor,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+@Wendys,Coke,ginger ale,last 6 month,0.0,-0.9897162,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Blood,#Drinks,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Blood,Vanilla,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cherry,#Drinks,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,Cola,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Cola,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Pimento,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Sack,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Human,Biotech,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Motivation,Brand,Beverage,Canada,8.834928
+Jack,@ETEAKI_T,ginger ale,last year,0.636,63.6,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Sole,@nypost,ginger ale,last 6 month,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Wine,Beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#0calories,#Relax,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#Obesity,@readersdigest,soda,last year,0.0,-1.0379939,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fizzyfriday,#delicious,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#giveaway,#win,soda,last 6 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#isolationnation,#stayinnandbeoutout,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#lemonade,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#lemonade,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#sparklingwater,#delicious,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#stayinnandbeoutout,#NOTANAD,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#whynot,#sparklingwater,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@redbubble,Soda,soda,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Fresh Mint,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Juice,Soda,soda,last 6 month,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Lime,Sparkling Water,soda,last 6 month,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Mustard,Veggies,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Seltzer,Water,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Shake,Flat,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Sparkling Water,Tomato,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Tomato,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,Lime,soda,last 6 month,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Water,#WorldWaterDay2019,soda,last year,0.0,-0.986969,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#Ginvent,@GinFoundry,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Hashtag,Beverage,Canada,
+#RealColumbiaSC,@drjoshsc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#SimplyAmazing,Tonic Water,tonic,last year,0.5859,58.59,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#bluehenntonic,#spanishgin,tonic,last 3 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fevertree,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#tiqaportland,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@EpicFoundSA,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Gin,#RapeSurvivors,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@CAEAirport,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Ice,Large,tonic,last month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Ice,tonic,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Large,tonic,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic Water,Coffee,tonic,last 3 month,0.5859,58.59,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#DreBanksWorld,Coke,ginger ale,last year,0.802,80.2,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#djent,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#golf,Diet Coke,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#groove,#latenightshow,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#latenightshow,#rock,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#minigolf,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#pop,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#rock,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Cherry,Coca Cola,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Cold,Lime,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Diet Coke,#golfgalaxy,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Ginger Ale,Cranberry Juice,ginger ale,last month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Ginger,ginger ale,last year,0.0,-1.0324465,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,
+Grapes,Coke,ginger ale,last 6 month,0.0,-0.98454165,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Human,Flavoring,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Jack,Coke,ginger ale,last 6 month,0.636,63.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tuna,Coke,ginger ale,last year,-0.4019,-40.19,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Vodka,Coke,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#NATURAL,#Klarbrunn4Life,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#WorldWaterDay2019,#RefreshingByNature,soda,last 6 month,0.0,-0.986969,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beverage,Garnish,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#humanhappiness,Toasted,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#isolationnation,Sparkling Water,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#stayinnandbeoutout,Lime,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#summer,#mojito,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@RootdHealth,#giveaway,soda,last 3 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@phillipsbeer,Hot,soda,last year,0.636,63.6,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Mustard,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Provolone Cheese,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Croissants,Onion,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Croissants,Veggies,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mineral Water,Soda,soda,last 3 month,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mint,#beverage,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Mint,#lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Onion,Fried Eggs,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Pork,Soda,soda,last year,0.44789997,44.789997,5,500.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Soda,Bean Soup,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,#Essentials,soda,last year,0.0,-0.9828149,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Sugar,Fat,soda,last year,0.0,-1.0144864,0,-0.99750626,0.0,Ingredient,Ingredient,Beverage,Canada,
+#Angular,#developerlife,tonic,last 6 month,0.6369,63.690002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#Ginvent,Stick,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Motivation,Beverage,Canada,
+#cocktails,@craftandcochest,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#fevertree,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fevertree,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gin&tonic,#bluehenntonic,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gin&tonic,#spanishgin,tonic,last 3 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#tiqaportland,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@DoubleDutchMix,@craftandcochest,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@DoubleDutchMix,@craftandcochest,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@GinFoundry,Fresh,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+@GinFoundry,Stick,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Motivation,Beverage,Canada,
+@Radio702,#RapeSurvivors,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@altamc,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Gin,@drjoshsc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Fever Tree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Rosemary,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,@craftandcochest,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,Water,tonic,last 6 month,0.3612,36.12,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#arcade,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#drummer,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#flavors,Biotech,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#groove,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#jazz,#djent,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@WindowTrendsHI,#homedecor,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+@raemack2488,Sugar,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Coke,#ElectionNight,ginger ale,last year,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,Lemon,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Ginger Ale,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Flat,Coke,ginger ale,last year,0.0,0.0,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Gin,Ginger Ale,ginger ale,last 3 month,0.0,-0.9858277,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Human,#artificial,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Motivation,Hashtag,Beverage,Canada,8.834928
+Sweet Pickles,@Jaguars,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#NOTANAD,Sparkling Water,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craft,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fizzyfriday,#sparklingwater,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#giveaway,@homejobsbymom,soda,last month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#supercharged,#delicious,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@RootdHealth,@homejobsbymom,soda,last 6 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Cheddar Cheese,Veggies,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,#delicious,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Fresh Lime,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Game,Wonka,soda,last year,-0.508,-50.800003,2,200.0,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Ice Cream,Soda,soda,last 6 month,0.8388,83.880005,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Ice Cream,Soda,soda,last year,0.8388,83.880005,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Juice,Grape,soda,last 6 month,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Mineral Water,Soda,soda,last year,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mint,#craft,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Sparkling Water,Tangerine,soda,last 6 month,0.0,-0.98481625,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Tuna,Onion,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Soda,soda,last year,-0.1027,-10.27,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Ginvent,Orange,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#bbcqt,@bbcquestiontime,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,Fever Tree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#craftcocktails,Rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,#craftcocktails,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#howsyourheadhun,@michellevisage,tonic,last 6 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#portlandbars,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#shame,Vodka,tonic,last year,0.0,-1.0117772,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@CenterParcsUK,@liamsteevenson,tonic,last year,0.0,-0.98953426,0,-0.99667776,0.0,Hashtag,Hashtag,Beverage,Canada,
+@DoubleDutchMix,Ginger,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@GinFoundry,Cinnamon,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+@Radio702,Tonic,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@craftandcochest,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@craftandcochest,Rum,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Fever Tree,Tonic,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Fever Tree,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#ginandtonic,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@GinFoundry,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Hashtag,Beverage,Canada,
+Gin,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Gin,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice,Large,tonic,last 6 month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,@liamsteevenson,tonic,last year,0.0,-0.98953426,0,-0.99667776,0.0,Ingredient,Hashtag,Beverage,Canada,
+Tonic,Ice,tonic,last month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Orange,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Tonic,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Vodka,tonic,last year,0.0,-1.0145494,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#drum,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#familyfun,#minigolf,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#groove,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#metal,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#minigolf,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#wine,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Wendys,Coke,ginger ale,last year,0.0,-0.9897162,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Coke,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,Crackers,ginger ale,last 6 month,-0.4019,-40.19,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Coke,Diet,ginger ale,last year,-0.1926,-0.76780266,2,0.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Coke,Sprite,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cola,Pimento,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Ginger Ale,ginger ale,last year,-0.5719,-57.190002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Frozen,Coke,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger,Ginger Ale,ginger ale,last year,-0.5719,1.597781,2,-0.33222592,0.0,Ingredient,Ingredient,Beverage,Canada,
+Ginger Ale,Sprite,ginger ale,last year,-0.1838,-18.38,3,0.49751243,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Jack,Tequila,ginger ale,last 6 month,0.636,63.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Sprite,Ice,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sweet Pickles,@Jaguars,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tequila,@ETEAKI_T,ginger ale,last 6 month,0.636,63.6,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tuna,Coke,ginger ale,last 6 month,-0.4019,-40.19,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tuna,Crackers,ginger ale,last 6 month,-0.4019,-40.19,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Water,Diet,ginger ale,last 6 month,-0.1926,-19.26,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+#Soda,@readersdigest,soda,last year,0.0,-1.0379939,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beverage,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#community,#happy,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gingerlemonade,#mojito,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#mojito,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#supercharged,#sparklingwater,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Carbonated,Seltzer,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Fructose,#HealthTip,soda,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Soda,Dried,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Red,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Bubly,soda,last 6 month,0.0,-0.96732026,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Vodka,#stayinnandbeoutout,soda,last 6 month,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+#RealColumbiaSC,#MarchMadness,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#TalkAt9,@Radio702,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#bluehenntonic,#spanishgin,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#chairmansreserve,Rum,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#chairmansreserve,Rum,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#chairmansreserve,Tonic,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,Tonic,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#gin&tonic,#bluehenntonic,tonic,last 3 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,Rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#howsyourheadhun,Tonic,tonic,last 6 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#wintersover,#spanishgin,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@CAEAirport,@drjoshsc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@DoubleDutchMix,#chairmansreserve,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@DoubleDutchMix,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Angostura Bitters,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice,Large,tonic,last 3 month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Rum,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+#Drinks,Coca Cola,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#designinspo,@WindowTrendsHI,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#golf,#golfgalaxy,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,Coke,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#imnotchubby,Diet Coke,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#nothanks,Diet Coke,ginger ale,last year,0.0,0.0,2,200.0,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#pop,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#pop,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Baby,Coke,ginger ale,last year,0.0,0.0,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Cheese,Pimento,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Sugar,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold Water,Ginger Ale,ginger ale,last 3 month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+French,Coke,ginger ale,last 3 month,0.0,0.0,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,8.589969
+Ginger Ale,Canada Dry,ginger ale,last year,0.0,-1.0324465,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Lime,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Lime,Ice,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Orange,Ginger Ale,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sweet Pickles,Cheese,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tequila,@ETEAKI_T,ginger ale,last year,0.636,63.6,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Vanilla,#CherryCoke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#FitLife,Fructose,soda,last year,0.0,-0.97656983,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#NATURAL,#0calories,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#humanhappiness,#wellbeing,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#isolationnation,#NOTANAD,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#mojito,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@RootdHealth,#giveaway,soda,last 6 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Coca Cola,Soda,soda,last 6 month,0.025799999,2.58,2,200.0,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Fountain,Soda,soda,last year,0.0,0.0,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Game,Wonka,soda,last 6 month,-0.508,-50.800003,2,200.0,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Juice,Soda,soda,last year,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Lemonade,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mint,#mojito,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Red,Bean Soup,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Seltzer,Shake,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Soda,Vanilla,soda,last year,0.128,12.8,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Apple Juice,soda,last year,0.0,-0.96732026,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Fructose,soda,last year,0.6093,60.93,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Onion,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Bean Soup,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,Lime,soda,last year,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+#Angular,Tonic,tonic,last month,0.6369,63.690002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#Ginvent,Tonic,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#MarchMadness,@drjoshsc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,@columbiasc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#cocktails,Cranberry,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#cocktails,Ginger,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,Rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wintersover,#gin&tonic,tonic,last 3 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@DoubleDutchMix,Cranberry,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@columbiasc,#MarchMadness,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Gin,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@Radio702,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Stick,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Motivation,Beverage,Canada,
+Gin,Tonic,tonic,last 3 month,-0.65926665,-2.670211,3,-0.24937657,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Gin,Water,tonic,last 6 month,0.3612,36.12,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,#demwitches,tonic,last year,0.0,-0.9828149,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#beer,Wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#designinspo,#homedecor,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#flavors,Flavoring,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#groove,#drum,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#groove,#jazz,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#latenightshow,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#lightingdesign,@WindowTrendsHI,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+@OutwavesMA,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Coke,#beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Creamy,Salmon,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Crackers,ginger ale,last year,0.046320003,4.6320004,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Know,Ginger Ale,ginger ale,last year,0.0,-0.9613003,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Lime,Coca Cola,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Ramen,Chocolate Milk,ginger ale,last year,0.6369,63.690002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Salmon,Ginger Ale,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprite,Soda,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+White House,Abraham,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Brand,Brand,Beverage,Canada,8.834928
+#NOTANAD,Sparkling Water,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#WorldWaterDay2019,#RefreshingByNature,soda,last 3 month,0.0,-0.986969,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craft,#mojito,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craft,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#giveaway,@homejobsbymom,soda,last 6 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#happy,#wellbeing,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#humanhappiness,#community,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#isolationnation,#stayinnandbeoutout,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#isolationnation,Lime,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@GFuelEnergy,Apple,soda,last year,-0.7351,-73.509995,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@homejobsbymom,#win,soda,last 3 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Carbonated,Apple,soda,last year,-0.7351,-73.509995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Coca Cola,Soda,soda,last year,0.025799999,2.58,2,200.0,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Cold,#sparklingwater,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Lime,Sparkling Water,soda,last year,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+My Favorite,Soda Water,soda,last year,0.0,-0.9881179,0,-0.99667776,0.0,Brand,Ingredient,Beverage,Canada,
+Rolls,Soda,soda,last month,0.0772,7.7200003,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Seltzer,Flat,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Sparkling Water,Cheddar Cheese,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Red,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Ginvent,Stick,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Motivation,Beverage,Canada,
+#MarchMadness,@drjoshsc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#MarchMadness,@drjoshsc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#SimplyAmazing,Coffee,tonic,last 3 month,0.5859,58.59,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#chairmansreserve,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+#ginandtonic,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#tiqaportland,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#portlandbars,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,#fevertree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#tiqaportland,Rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wintersover,#bluehenntonic,tonic,last 3 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@CAEAirport,Tonic,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@columbiasc,Tonic,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Cinnamon,Tonic,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Fever Tree,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fever Tree,#tiqaportland,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fever Tree,Rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Fever Tree,Tonic,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,Fever Tree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Gin,Rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,#rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@drjoshsc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,Rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Coke,#artificial,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#arcade,#minigolf,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#familyfun,#food,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#food,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#groove,#rock,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#interiordesign,#lightingdesign,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#latenightshow,#djent,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#rock,#djent,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@pepsi,Cake,ginger ale,last year,0.0,-0.9842767,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+American,Ginger Ale,ginger ale,last 6 month,0.0,0.0,2,200.0,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Cherry Coke,Coca Cola,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Coke,Icing,ginger ale,last year,0.0,-0.9842767,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Ice,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold Water,Cranberry Juice,ginger ale,last 3 month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold Water,Cranberry Juice,ginger ale,last year,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Dr Pepper,Coke,ginger ale,last year,-0.8442,-84.42,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Ginger Ale,Strong,ginger ale,last 3 month,0.5574,55.739998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lime,Lemon,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprite,Lemon,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vanilla,Cherry Coke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#lemonade,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#stayinnandbeoutout,#NOTANAD,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#summer,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#summer,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#whynot,Coffee,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Apple,Soda,soda,last year,0.0,-0.9878434,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Caffeine,Soda,soda,last year,-0.34,-34.0,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Carbonated,Shake,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Cherry,Cherry Vodka,soda,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cherry,Soda,soda,last year,0.34994286,34.994286,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Dried,Bean Soup,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Mustard,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Cheddar Cheese,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Eggs,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Red,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tomato,Eggs,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Sparkling Water,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Coke,soda,last year,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#RealColumbiaSC,@columbiasc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#cocktails,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#craftcocktails,Fever Tree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#ginandtonic,#tiqaportland,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,Rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@CAEAirport,@drjoshsc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Radio702,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@bbcthree,@michellevisage,tonic,last 6 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Caffeine,Dry,tonic,last year,0.0,-1.0162628,0,-0.9985735,0.0,Motivation,Motivation,Beverage,Canada,
+Cinnamon,Stick,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Motivation,Beverage,Canada,
+Cranberry,Ginger,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Cranberry,Rum,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Gin,#MarchMadness,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@EpicFoundSA,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@columbiasc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Water,tonic,last year,0.3612,36.12,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Rum,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,Cranberry,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+#VIPjuggz,Coke,ginger ale,last year,0.0,-1.0213538,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#haveyouseenmyjuggz,Coke,ginger ale,last year,0.0,-1.0213538,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#jazz,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#minigolf,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Dj,Coke,ginger ale,last year,0.802,80.2,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Cheese,@Jaguars,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cherry,Vanilla,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Soda,ginger ale,last 6 month,0.0,-0.983482,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Alfredo,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Jack,@ETEAKI_T,ginger ale,last 6 month,0.636,63.6,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Jack,Tequila,ginger ale,last year,0.636,63.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+#beverage,#lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beverage,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#coldbrew,#delicious,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gingerlemonade,#beverage,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#giveaway,#win,soda,last month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#happy,Toasted,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#health,Toasted,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#humanhappiness,#happiness,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#isolationnation,Lime,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#isolationnation,Vodka,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Baking Soda,Lemon,soda,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Veggies,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Croissants,Fried Eggs,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Croissants,Provolone Cheese,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Grape,Soda,soda,last 3 month,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Ice Cream,Shake,soda,last 6 month,0.8388,83.880005,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Lime,#NOTANAD,soda,last year,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Shake,Soda,soda,last 3 month,0.8388,83.880005,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,8.589969
+Water,#WorldWaterDay2019,soda,last 3 month,0.0,-0.986969,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#BunsOut,@Radio702,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#MarchMadness,Tonic,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#chairmansreserve,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#craftcocktails,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#craftcocktails,Fever Tree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#gin&tonic,#spanishgin,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,Fever Tree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#howsyourheadhun,@bbcthree,tonic,last year,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#rosemary,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@DoubleDutchMix,Rum,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@DoubleDutchMix,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+@EpicFoundSA,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Angostura Bitters,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cranberry,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Gin,#bbcqt,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#craftcocktails,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Rosemary,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Stick,Fresh,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Motivation,Ingredient,Beverage,Canada,
+Stick,Orange,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Motivation,Ingredient,Beverage,Canada,
+Tonic,#portlandbars,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@bbcthree,tonic,last month,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,Stick,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Motivation,Beverage,Canada,
+#CherryCoke,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#CherryCoke,Cherry Coke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#arcade,#familyfun,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#drum,@OutwavesMA,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#drummer,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#familyfun,Beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#golf,#lifeofriley,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@OutwavesMA,#rock,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Alfredo,Cake,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Beer,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cherry,#CherryCoke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Creamy,Alfredo,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Brand,Beverage,Canada,8.834928
+Creamy,Cake,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Flavoring,Biotech,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Jack,Honey,ginger ale,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lime,Cherry Coke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lime,Vanilla,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Salmon,Ginger Ale,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sweet Pickles,Pimento,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#NATURAL,#Relax,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#community,#happiness,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gingerlemonade,#summer,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gingerlemonade,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#health,#wellbeing,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#isolationnation,Vodka,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#sparklingwater,#hammock,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+Bacon,Cheese,soda,last year,-0.296,-29.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Carbonated,Shake,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Carbonated,Water,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Eggs,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Tomato,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coffee,#coldbrew,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cola,Soda,soda,last year,-0.34,-34.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Croissants,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mineral Water,Soda,soda,last 6 month,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Onion,Provolone Cheese,soda,last year,1.1695334,116.95334,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Onion,Sparkling Water,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Bean Soup,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Bubly,soda,last year,0.0,-0.96732026,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Vodka,#NOTANAD,soda,last year,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Water,#WorldWaterDay2019,soda,last 6 month,0.0,-0.986969,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#BunsOut,Tonic,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#Ginvent,Cinnamon,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#Ginvent,Tonic,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#RealColumbiaSC,@drjoshsc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RugbyWorldCup2019,#RapeSurvivors,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RugbyWorldCup2019,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#cocktails,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#cocktails,Rum,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#wintersover,#spanishgin,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@DoubleDutchMix,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+@ReisePferdich,Tonic,tonic,last year,0.0,-1.019976,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,7.6868787
+@columbiasc,Tonic,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@craftandcochest,Cranberry,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@craftandcochest,Ginger,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Fever Tree,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Gin,#Ginvent,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Hashtag,Beverage,Canada,
+Tonic,Large,tonic,last 6 month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#interiordesign,@WindowTrendsHI,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+@Jaguars,Pimento,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@OutwavesMA,#djent,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Wendys,Coke,ginger ale,last month,0.0,-0.9897162,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Blood,Coca Cola,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Coke,Black,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Lime,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold Water,Ginger Ale,ginger ale,last month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Flat,Sprite,ginger ale,last year,0.0,0.0,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Human,#Pepsi,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Motivation,Hashtag,Beverage,Canada,8.834928
+Know,Water,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Orange,Coke,ginger ale,last 3 month,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Orange,Vanilla,ginger ale,last year,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Orange,Whiskey,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Diet,ginger ale,last 3 month,-0.1926,-19.26,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+#Pregnancy,@readersdigest,soda,last year,0.0,-1.0379939,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beverage,#summer,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#community,#fizzydrink,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gingerlemonade,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#gingerlemonade,Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#humanhappiness,#happy,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#humanhappiness,Human,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#isolationnation,#stayinnandbeoutout,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#isolationnation,Lime,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#isolationnation,Sparkling Water,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#sparklingwater,#Relax,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#stayinnandbeoutout,Lime,soda,last 6 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Bacon,Cheese,soda,last 3 month,-0.296,-29.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Carbonated,Flat,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Cola,Coke,soda,last year,-0.34,-34.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Garnish,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Garnish,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice,Sauce,soda,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Red,Bean Soup,soda,last 3 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Rolls,Soda,soda,last 3 month,0.0772,7.7200003,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sauce,Soda,soda,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Coke,soda,last 3 month,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Tomato,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Dried,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Strawberry,Tangerine,soda,last 6 month,0.0,-0.98481625,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Veggies,Eggs,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,#NOTANAD,soda,last 3 month,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+#RealColumbiaSC,#MarchMadness,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#TalkAt9,Tonic,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#chairmansreserve,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#chairmansreserve,Ginger,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,Rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#howsyourheadhun,@bbcthree,tonic,last 3 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#howsyourheadhun,@bbcthree,tonic,last 6 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#howsyourheadhun,Tonic,tonic,last 3 month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#tiqaportland,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#tiqaportland,Rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wintersover,#gin&tonic,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@EpicFoundSA,#RapeSurvivors,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Gin,#demwitches,tonic,last year,0.0,-0.9828149,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@drjoshsc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic Water,Squash,tonic,last 6 month,0.0,-1.0224266,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#DreBanksWorld,#DrizzyBanCo,ginger ale,last year,0.802,80.2,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#artificial,#Pepsi,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#artificial,#flavors,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#beer,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#drum,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#groove,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,#familyfun,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,#minigolf,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#jazz,#latenightshow,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#latenightshow,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#pop,#djent,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Jaguars,Cola,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@OutwavesMA,#pop,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@SherwoodChurch,Coke,ginger ale,last year,0.7964,79.64,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Cherry,Blood,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Lemon,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Sprite,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+French,Coke,ginger ale,last 6 month,0.0,0.0,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,8.589969
+Ginger Ale,Alfredo,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Human,#flavors,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Motivation,Hashtag,Beverage,Canada,8.834928
+Sprite,Ice,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprite,Know,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Water,Diet,ginger ale,last year,-0.1926,-19.26,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+#Klarbrunn4Life,#sparklingwater,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#fizzydrink,#wellbeing,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#isolationnation,#NOTANAD,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#lemonade,#summer,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#lemonade,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@homejobsbymom,#win,soda,last 6 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@homejobsbymom,#win,soda,last month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Carbonated,Water,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Garnish,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Popcorn,Soda,soda,last 6 month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Red,Dried,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Mustard,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Eggs,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,#RefreshingByNature,soda,last year,0.0,-0.986969,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#BunsOut,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#TalkAt9,@EpicFoundSA,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#chairmansreserve,Ginger,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#cocktails,Cranberry,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#cocktails,Rum,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#craftcocktails,#fevertree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gin&tonic,#bluehenntonic,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,Tonic Water,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@columbiasc,#MarchMadness,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Angostura Bitters,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Fever Tree,Rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@columbiasc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Gin,Fresh,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Ginger,Rum,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tonic,#developerlife,tonic,last year,0.6369,63.690002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,#shame,tonic,last year,0.0,-1.0117772,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@MapsMaponyane,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@bbcthree,tonic,last year,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+#Coke,#Pepsi,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#Drinks,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,Wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#interiordesign,#homedecor,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#latenightshow,#drummer,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@ETEAKI_T,Coke,ginger ale,last 6 month,0.636,63.6,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+@raemack2488,Sack,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Beer,#wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Cherry,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,#familyfun,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,Lemon,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Sweet Pickles,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cola,Pimento,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Sprite,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Alfredo,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Brand,Beverage,Canada,8.834928
+Ginger Ale,White,ginger ale,last year,0.7264,72.64,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lime,Lemon,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Salmon,Cake,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,Large,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#Obesity,#Pregnancy,soda,last year,0.0,-1.0379939,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#Soda,#Pregnancy,soda,last year,0.0,-1.0379939,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#community,Toasted,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#craft,Garnish,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#mojito,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#summer,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#supercharged,#coldbrew,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@RootdHealth,@homejobsbymom,soda,last month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@homejobsbymom,#win,soda,last year,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Carbonated,Water,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Cherry,Mineral Water,soda,last 3 month,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coffee,#sparklingwater,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Fried Eggs,Provolone Cheese,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mint,#summer,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Mint,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mint,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mustard,Eggs,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Shake,Water,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Sprouts,Cheddar Cheese,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Toasted,#wellbeing,soda,last year,0.937,93.7,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Water,Coke,soda,last 6 month,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#BunsOut,#RapeSurvivors,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RugbyWorldCup2019,@EpicFoundSA,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RugbyWorldCup2019,@Radio702,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#TalkAt9,#RapeSurvivors,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#craftcocktails,Tonic Water,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Angostura Bitters,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#ginandtonic,Fever Tree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#ginandtonic,Tonic,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@BrightClubMcr,Tonic,tonic,last year,0.4926,49.26,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,7.6868787
+@DoubleDutchMix,#cocktails,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@columbiasc,@drjoshsc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@craftandcochest,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Motivation,Beverage,Canada,8.589969
+Cranberry,Rum,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Fever Tree,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#RugbyWorldCup2019,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#fevertree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@bbcquestiontime,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Cinnamon,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Tonic,@CenterParcsUK,tonic,last year,0.0,-0.98953426,0,-0.99667776,0.0,Ingredient,Hashtag,Beverage,Canada,
+Tonic,@bbcthree,tonic,last 6 month,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+#DietCoke,Diet Coke,ginger ale,last 6 month,0.0,0.0,2,200.0,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#designinspo,#design,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#drum,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Dj,#DrizzyBanCo,ginger ale,last year,0.802,80.2,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Cheese,Cola,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Chipotle,Coke,ginger ale,last year,0.6705,67.049995,2,0.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,Cheese,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cold,Lemon,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Cake,ginger ale,last 6 month,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Cake,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Cranberry Juice,ginger ale,last 3 month,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Strong,ginger ale,last year,0.5574,55.739998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Inca,Coke,ginger ale,last 6 month,0.0,-0.983482,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Juice,Diet,ginger ale,last year,0.0,-1.0127162,0,-0.99502486,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Tequila,Coke,ginger ale,last year,0.636,63.6,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+#fizzydrink,Toasted,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#gingerlemonade,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#happy,#health,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#isolationnation,Sparkling Water,soda,last year,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#lemonade,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#stayinnandbeoutout,Sparkling Water,soda,last 3 month,0.296,29.6,4,400.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#summer,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#supercharged,Coffee,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Dried,Bean Soup,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Fresh Mint,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mint,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Onion,Veggies,soda,last year,1.1695334,116.95334,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Pear,@GFuelEnergy,soda,last year,-0.7351,-73.509995,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Seltzer,Shake,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Shake,Water,soda,last 3 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Soda,Dried,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Eggs,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Tangerine,soda,last year,0.0,-0.98481625,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Sprouts,Tomato,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Toasted,Human,soda,last year,0.937,93.7,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Tuna,Veggies,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,#stayinnandbeoutout,soda,last 3 month,0.296,29.6,4,400.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+#MarchMadness,@CAEAirport,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,Tonic,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#TalkAt9,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fevertree,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Tonic,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,#fevertree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@GinFoundry,Stick,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Motivation,Beverage,Canada,
+@columbiasc,@drjoshsc,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Fever Tree,Rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#TalkAt9,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#tiqaportland,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,Rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Tonic,#developerlife,tonic,last 3 month,0.6369,63.690002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@drjoshsc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,Large,tonic,last 3 month,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Rosemary,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic Water,Squash,tonic,last year,0.0,-1.0224266,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#DietCoke,Diet Coke,ginger ale,last year,0.0,0.0,2,200.0,0.0,Hashtag,Brand,Beverage,Canada,8.834928
+#arcade,#beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,#beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#icecream,Beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#lifeofriley,#golfgalaxy,ginger ale,last year,0.0,-0.97732425,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#pop,#latenightshow,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@OutwavesMA,#latenightshow,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Blood,#Enjoy,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Blood,Cherry Coke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cherry,Lime,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Chipotle,Large,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Crackers,ginger ale,last year,-0.4019,-40.19,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Coke,Diet,ginger ale,last 3 month,-0.1926,-0.76780266,2,0.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Coke,Large,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Sweet Pickles,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Water,ginger ale,last 6 month,-0.1926,-19.26,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Water,ginger ale,last month,-0.1926,-19.26,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Gin,Ginger Ale,ginger ale,last 6 month,0.0,-0.9858277,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Ginger Ale,#weworksummercamp,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Orange,#weworksummercamp,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Salmon,Alfredo,ginger ale,last 3 month,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+#gingerlemonade,#craft,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gingerlemonade,#lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#gingerlemonade,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#gingerlemonade,Garnish,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#happy,#happiness,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#whynot,#delicious,soda,last year,0.0,-0.97927034,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Carbonated,@GFuelEnergy,soda,last year,-0.7351,-73.509995,2,200.0,0.0,Motivation,Hashtag,Beverage,Canada,8.834928
+Carbonated,Seltzer,soda,last year,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Garnish,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lemonade,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mint,Garnish,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Seltzer,Water,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Sparkling Water,soda,last 3 month,0.8687,86.87,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,
+#MarchMadness,@CAEAirport,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,@CAEAirport,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#RealColumbiaSC,@columbiasc,tonic,last 3 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#SimplyAmazing,Coffee,tonic,last year,0.5859,58.59,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#cocktails,Tonic,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+#ginandtonic,#fevertree,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#howsyourheadhun,@bbcthree,tonic,last month,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#rosemary,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#rosemary,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#rosemary,Angostura Bitters,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#tiqaportland,Tonic,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@CAEAirport,@drjoshsc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Radio702,@altamc,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@columbiasc,@CAEAirport,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@craftandcochest,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+Rum,@ChairmansUK,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Rum,Spiced,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Tonic,@michellevisage,tonic,last 6 month,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic,Fresh,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Tonic,Rum,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tonic,Spiced,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Tonic Water,Coffee,tonic,last year,0.5859,58.59,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#drum,#rock,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#wherelongislandgetsengaged,#svsfinejewelry,ginger ale,last year,0.8443,84.43,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#wine,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@Jaguars,Pimento,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@OutwavesMA,#metal,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@raemack2488,Coke,ginger ale,last year,0.0,-0.97682506,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+American,Ginger Ale,ginger ale,last year,0.0,0.0,2,200.0,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Cheese,Pimento,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,#minigolf,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Coke,Juice,ginger ale,last year,0.0,-1.0127162,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+French,Coke,ginger ale,last month,0.0,0.0,3,300.0,0.0,Motivation,Ingredient,Beverage,Canada,8.589969
+Ginger,Cold,ginger ale,last year,-0.5719,-57.190002,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Orange,Coke,ginger ale,last 6 month,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Orange,Coke,ginger ale,last year,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprite,Lime,ginger ale,last 6 month,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sweet Pickles,Pimento,ginger ale,last 6 month,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Diet,ginger ale,last month,-0.1926,-19.26,2,200.0,0.0,Ingredient,Motivation,Beverage,Canada,8.834928
+#0calories,#Klarbrunn4Life,soda,last year,0.4404,44.04,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#SabrinahFontelar,Soda,soda,last year,0.0,-1.0106394,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#SparklingWater,Fructose,soda,last year,0.0,-0.97656983,0,-0.99750626,0.0,Hashtag,Ingredient,Beverage,Canada,
+#beverage,Lemonade,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#community,Human,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+#craft,#beverage,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#mojito,Sparkling Water,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wellbeing,Human,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Motivation,Beverage,Canada,8.834928
+Cheddar Cheese,Mustard,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Garnish,#mojito,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Ginger,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Grape,Soda,soda,last 6 month,0.3612,36.12,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Ice Cream,Shake,soda,last 3 month,0.8388,83.880005,3,300.0,0.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Pear,Apple,soda,last year,-0.7351,-73.509995,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Popcorn,Soda,soda,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Red,Soda,soda,last year,0.0,-0.98720735,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Shake,Water,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Strawberry,Sparkling Water,soda,last 6 month,0.0,-0.98481625,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Tomato,Eggs,soda,last 6 month,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Water,Sparkling Water,soda,last year,0.8687,-0.008239232,2,-0.49875313,0.0,Ingredient,Ingredient,Beverage,Canada,
+#MarchMadness,Tonic,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#RugbyWorldCup2019,Tonic,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#cocktails,@craftandcochest,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#ginandtonic,#craftcocktails,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#fevertree,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#rosemary,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#tiqaportland,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#tiqaportland,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@GinFoundry,Orange,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+@GinFoundry,Tonic,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+@ReisePferdich,Tonic,tonic,last 3 month,0.0,-1.019976,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,7.6868787
+@columbiasc,@CAEAirport,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Caffeine,Tonic Water,tonic,last year,0.0,-1.0162628,0,-0.9985735,0.0,Motivation,Ingredient,Beverage,Canada,
+Fever Tree,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fever Tree,#tiqaportland,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Gin,#craftcocktails,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,@CAEAirport,tonic,last 6 month,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Rosemary,Angostura Bitters,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,#portlandbars,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@bbcquestiontime,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,Cranberry,tonic,last 6 month,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Tonic,Ginger,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+#Drinks,#CherryCoke,ginger ale,last year,0.7184,71.84,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#Pepsi,#flavors,ginger ale,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#VIPjuggz,#haveyouseenmyjuggz,ginger ale,last year,0.0,-1.0213538,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#arcade,Wine,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#design,#homedecor,ginger ale,last year,0.7263,72.63,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,7.6868787
+#familyfun,#beer,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#familyfun,#lasertag,ginger ale,last year,0.0,-0.9838788,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#groove,#pop,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Cake,Icing,ginger ale,last year,0.0,-0.9842767,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Ice,ginger ale,last year,0.0,-0.9879169,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Creamy,Ginger Ale,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Cake,ginger ale,last year,0.0,-0.9786689,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Cranberry Juice,ginger ale,last year,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,White,ginger ale,last 6 month,0.7264,72.64,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Inca,Coke,ginger ale,last year,0.0,-0.983482,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Inca,Soda,ginger ale,last 6 month,0.0,-0.983482,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Latino,#np,ginger ale,last year,0.0,0.0,2,200.0,0.0,Motivation,Hashtag,Beverage,Canada,8.834928
+#SabrinahFontelar,Fat,soda,last year,0.0,-1.0106394,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#beverage,Fresh Lime,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#summer,Fresh Mint,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Caffeine,Coke,soda,last year,-0.34,-34.0,2,200.0,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Carbonated,Flat,soda,last 6 month,-0.6705,-67.049995,2,200.0,0.0,Motivation,Motivation,Beverage,Canada,8.834928
+Cherry,Mineral Water,soda,last 6 month,0.6124,61.239998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cherry Vodka,Soda,soda,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Fried Eggs,soda,last year,0.88,88.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Soda,soda,last year,0.5707,57.07,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Flat,Soda,soda,last year,0.0,-0.98877287,0,-0.99502486,0.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Ice,Soda,soda,last year,0.0,0.0,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Red,Bean Soup,soda,last 6 month,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Bean Soup,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Eggs,soda,last year,0.8743,87.43,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Squid,Bean Soup,soda,last year,0.0,-1.030303,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Vodka,Sparkling Water,soda,last 6 month,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Vodka,Sparkling Water,soda,last year,0.296,29.6,4,400.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Water,#RefreshingByNature,soda,last 6 month,0.0,-0.986969,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+#Angular,#developerlife,tonic,last month,0.6369,63.690002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#Ginvent,Fresh,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+#SimplyAmazing,Tonic Water,tonic,last 6 month,0.5859,58.59,2,200.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#craftcocktails,Tonic,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#fevertree,Tonic,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#gin&tonic,#spanishgin,tonic,last 6 month,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#ginandtonic,#craftcocktails,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#portlandbars,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#wintersover,#gin&tonic,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@CAEAirport,Tonic,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@GinFoundry,Cinnamon,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+@GinFoundry,Fresh,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+@GinFoundry,Tonic,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Hashtag,Ingredient,Beverage,Canada,
+@bbcthree,@michellevisage,tonic,last year,-0.2942,-29.42,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@craftandcochest,Cranberry,tonic,last year,0.8832,88.32,3,300.0,0.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Cinnamon,Orange,tonic,last year,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Fever Tree,#tiqaportland,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fever Tree,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Ingredient,Beverage,Canada,8.834928
+Gin,#MarchMadness,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Gin,#craftcocktails,tonic,last year,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Rosemary,#rosemary,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@drjoshsc,tonic,last year,0.0,-0.9807914,0,-0.99502486,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@michellevisage,tonic,last 3 month,-0.2942,-29.42,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+@OutwavesMA,@8gband,ginger ale,last year,0.5067,50.67,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+@pepsi,Coke,ginger ale,last year,0.0,-0.9842767,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Coke,Juice,ginger ale,last 6 month,0.0,-1.0127162,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Know,ginger ale,last year,0.0,-0.97306037,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Cold Water,Ginger Ale,ginger ale,last year,0.0,-1.1488096,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger,Canada Dry,ginger ale,last year,0.0,-1.0324465,0,-0.99502486,0.0,Ingredient,Brand,Beverage,Canada,8.834928
+Orange,Vanilla,ginger ale,last 6 month,0.0,-1.0182682,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sweet Pickles,Cheese,ginger ale,last year,0.0,-0.90966576,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#gingerlemonade,Ginger,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#giveaway,#win,soda,last 3 month,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#health,#happiness,soda,last year,0.937,93.7,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#summer,Garnish,soda,last year,0.0,-0.98968965,0,-0.99502486,0.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@RootdHealth,#win,soda,last year,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+@RootdHealth,@homejobsbymom,soda,last year,0.68,68.0,3,300.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.589969
+#BunsOut,@EpicFoundSA,tonic,last year,0.5267,52.670002,2,200.0,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#bluehenntonic,#spanishgin,tonic,last year,0.0,0.0,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+#fevertree,#portlandbars,tonic,last 6 month,0.0,-1.0423371,0,-0.99502486,0.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Fever Tree,#fevertree,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Brand,Hashtag,Beverage,Canada,8.834928
+Fresh,Orange,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Ingredient,Beverage,Canada,
+Gin,Stick,tonic,last 6 month,0.0,-0.98876655,0,-0.99667776,0.0,Ingredient,Motivation,Beverage,Canada,
+Ice,Cold,tonic,last year,0.6249,62.489998,2,200.0,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Rosemary,Tonic Water,tonic,last 3 month,0.0,-1.0423371,0,-0.99502486,0.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,#RapeSurvivors,tonic,last year,0.5267,52.670002,2,200.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Tonic,@ChairmansUK,tonic,last year,0.8832,88.32,3,300.0,0.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Tonic Water,Dry,tonic,last year,0.0,-1.0162628,0,-0.9985735,0.0,Ingredient,Motivation,Beverage,Canada,
+Gin,Tonic,tonic,last year,0.037250005,-0.9222094,8,0.0,-0.23076923,Ingredient,Ingredient,Beverage,Canada,8.589969
+Sparkling Water,Veggies,soda,last 6 month,1.1695334,116.95334,3,300.0,-0.33333334,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Fast Food,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Sparkling Water,Tomato,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Cheddar Cheese,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Tomato,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#nothanks,Diet Coke,ginger ale,last 6 month,0.0,0.0,2,200.0,-1.0,Hashtag,Brand,Beverage,Canada,8.834928
+Ramen,Chocolate Milk,ginger ale,last 6 month,0.6369,63.690002,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Cheddar Cheese,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Tomato,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+@DMRnewsdirector,Coke,ginger ale,last year,0.0,0.0,3,300.0,-1.0,Hashtag,Ingredient,Beverage,Canada,7.6868787
+Jack,Coke,ginger ale,last 3 month,0.636,63.6,3,300.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Croissants,Fried Eggs,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Onion,Provolone Cheese,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coffee,Tonic,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Diet,Lemonade,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Croissants,Provolone Cheese,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#icecream,Coffee,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Diet,Soda,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Cream,Sparkling Water,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Fried Eggs,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coffee,Mocha,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lemonade,Fast Food,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Soda,Lemonade,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Croissants,Onion,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#icecream,Black,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Coke,Lemonade,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Caffeine,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Tomato,Eggs,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#icecream,Tonic,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+@badencoffee,Tonic,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Gin,Raspberry,tonic,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Root Beer,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Mustard,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Provolone Cheese,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+@badencoffee,Coffee,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Chips,Caffeine,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Ginger Ale,Lemonade,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Soda,Root Beer,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Fried Eggs,Provolone Cheese,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mustard,Veggies,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Jack,@ETEAKI_T,ginger ale,last 3 month,0.636,63.6,3,300.0,-1.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+@badencoffee,Mocha,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Tonic,Mocha,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Eggs,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Japanese,Sparkling Water,soda,last 6 month,-0.5411,-54.11,2,200.0,-1.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Fried Eggs,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Fructose,soda,last 6 month,0.6093,60.93,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Gin,#gin,tonic,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+@ETEAKI_T,Coke,ginger ale,last 3 month,0.636,63.6,3,300.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.589969
+Chips,Fast Food,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Sparkling Water,Mature,soda,last 6 month,0.6124,61.239998,6,600.0,-1.0,Ingredient,Motivation,Beverage,Canada,8.589969
+Sparkling Water,Onion,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Black,Tonic,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Gin,Lamb,tonic,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tonic,Lamb,tonic,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lemonade,Caffeine,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Motivation,Beverage,Canada,8.834928
+Lemonade,Root Beer,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tequila,Coke,ginger ale,last 3 month,0.636,63.6,3,300.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Cheddar Cheese,Tomato,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mustard,Eggs,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Caffeine,Peanut Butter,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Fast Food,Peanut Butter,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Provolone Cheese,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Croissants,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Black,@badencoffee,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Black,Coffee,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Tequila,@ETEAKI_T,ginger ale,last 3 month,0.636,63.6,3,300.0,-1.0,Ingredient,Hashtag,Beverage,Canada,8.589969
+Croissants,Veggies,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice,Soda,soda,last 6 month,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Eggs,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Sparkling Water,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#icecream,@badencoffee,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Hashtag,Beverage,Canada,8.834928
+Chips,Ginger Ale,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cheddar Cheese,Veggies,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Veggies,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Eggs,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Chips,Peanut Butter,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Croissants,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Pork,Soda,soda,last 6 month,0.44789997,44.789997,5,500.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Jack,Tequila,ginger ale,last 3 month,0.636,63.6,3,300.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.589969
+Onion,Veggies,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Veggies,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Raspberry,#gin,tonic,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Hashtag,Beverage,Canada,8.834928
+Diet,Root Beer,ginger ale,last year,0.0,0.0,2,200.0,-1.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Raspberry,Lamb,tonic,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ice,Sauce,soda,last 6 month,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Mustard,Tomato,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+#gin,Lamb,tonic,last year,0.0,0.0,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#gin,Tonic,tonic,last year,0.0,0.0,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+#icecream,Mocha,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Hashtag,Ingredient,Beverage,Canada,8.834928
+Chips,Lemonade,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Peanut Butter,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Ginger Ale,Soda,ginger ale,last year,-0.3412,-34.12,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Fried Eggs,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Cream,Onion,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sprouts,Mustard,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Diet,Coke,ginger ale,last year,0.38294998,38.295,3,300.0,-1.0,Motivation,Ingredient,Beverage,Canada,8.834928
+Fast Food,Caffeine,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Motivation,Motivation,Beverage,Canada,8.834928
+Onion,Fried Eggs,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Yoghurt,soda,last year,0.296,29.6,3,300.0,-1.0,Ingredient,Ingredient,Beverage,Canada,7.6868787
+Raspberry,Tonic,tonic,last year,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Coke,Soda,ginger ale,last year,0.0,-0.98456156,2,-0.33222592,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Lemonade,Peanut Butter,ginger ale,last year,0.3919,39.19,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sauce,Soda,soda,last 6 month,0.0,0.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Veggies,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Black,Mocha,tonic,last year,-0.4574,-45.739998,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Sparkling Water,Mustard,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Eggs,soda,last 3 month,0.8743,87.43,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
+Veggies,Provolone Cheese,soda,last 6 month,0.88,88.0,2,200.0,-1.0,Ingredient,Ingredient,Beverage,Canada,8.834928
