@@ -82,7 +82,7 @@ df_freqmonth_novel = df_freqmonth_novel.withColumn('Novelty_Score',novelty_score
                                        
 novelty_cols = ['Topic','Novelty_Score','Category2']
 df_noveltyScore = df_freqmonth_novel.select(*novelty_cols)
-
+df_noveltyScore.toPandas().to_csv('df_novelty.csv',index=False)
 
 # df_freqmonth = fillingTheMissingMonth(df_freqmonth,prefix='Frequency')
 # rank1D_freq = getRank1dFreq(pairs,df_lastYearTrendingScore,df_last1monthTrendingScore,df_last3monthTrendingScore,df_last6monthTrendingScore)
